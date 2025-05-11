@@ -1,6 +1,6 @@
 # Evolution X Sony Xperia XZ2
 
-![2okPze5](https://github.com/Evolution-XYZ/XDA/blob/udc/assets/banner_style_2.png?raw=true)
+![2okPze5](https://github.com/Evolution-XYZ/XDA/blob/udc/assets/banner_style_3.png?raw=true)
 ```
 WARNING: THIS IS CUSTOM FIRMWARE, WHICH VOIDS THE WARRANTY OF YOUR DEVICE.
 I AM NOT RESPONSIBLE FOR ANY HARDWARE FAILURES, LOSS OF DATA OR EXPLOSIONS. USE AT YOUR OWN RISK.
